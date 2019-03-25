@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\2b254dff880686c59a9d88a1b9be255a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\f8c8d463abcd22e7d20adcaa65e3777b\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\0749c7b100a08fc9e67d089485b63ac3\AndroidManifest.xml:14:4-17:12
+INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\2b254dff880686c59a9d88a1b9be255a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\2b254dff880686c59a9d88a1b9be255a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\f8c8d463abcd22e7d20adcaa65e3777b\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\f8c8d463abcd22e7d20adcaa65e3777b\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\0749c7b100a08fc9e67d089485b63ac3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\0749c7b100a08fc9e67d089485b63ac3\AndroidManifest.xml:15:5-42
+INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:14:22-65
+application
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:16:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\2b254dff880686c59a9d88a1b9be255a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\2b254dff880686c59a9d88a1b9be255a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\f8c8d463abcd22e7d20adcaa65e3777b\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\f8c8d463abcd22e7d20adcaa65e3777b\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\0749c7b100a08fc9e67d089485b63ac3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\0749c7b100a08fc9e67d089485b63ac3\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:18:9-25
+	android:icon
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:17:9-38
+	android:allowBackup
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:20:9-36
+	android:theme
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:21:9-56
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:19:9-28
+receiver#com.transpay.BootReceiver
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:22:9-26:20
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:23:13-25:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:24:17-78
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:24:25-76
+activity#com.transpay.MainActivity
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:27:9-32:20
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:27:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.transpay.Sum
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:33:9-53
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:33:19-50
+activity#com.transpay.TransactionReport
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:34:19-64
+activity#com.transpay.RevTrnNumber
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:35:9-62
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:35:19-59
+activity#com.transpay.WrongPin
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:36:9-58
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:36:19-55
+activity#com.transpay.Balance
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:37:9-57
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:37:19-54
+activity#com.transpay.ProductType
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:38:9-61
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:38:19-58
+activity#com.transpay.PetrolTypes
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:39:9-61
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:39:19-58
+activity#com.transpay.ReportInput
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:40:9-61
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:40:19-58
+activity#com.transpay.Litre
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:41:9-55
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:41:19-52
+activity#com.transpay.PaymentType
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:42:9-61
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:42:19-58
+activity#com.transpay.TerminalIDActivity
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:43:9-68
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:43:19-65
+activity#com.transpay.Pin
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:44:9-53
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:44:19-50
+service#com.transpay.KioskService
+ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:46:9-73
+	android:exported
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:46:47-71
+	android:name
+		ADDED from D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\src\main\AndroidManifest.xml:46:18-46

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/Pay"
+        android:src="@drawable/transpay_logo" />
+
+    <TextView
+        android:id="@+id/ReportTextView"
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30sp"
+        android:layout_below="@+id/imageView3"
+        android:background="#555252"
+        android:gravity="center_horizontal"
+        android:text="@string/Report"
+        android:textStyle="bold"
+        android:textColor="#EFF62A" />
+
+    <TextView
+        android:id="@+id/StartDateTextView"
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30sp"
+        android:layout_below="@+id/ReportTextView"
+        android:background="#00FF00"
+        android:gravity="center_horizontal"
+        android:textColor="#000000"
+        android:text="@string/startDate" />
+
+    <DatePicker
+        android:id="@+id/StartDatePicker"
+        android:layout_width="250dip"
+        android:layout_height="150dip"
+        android:calendarViewShown="false"
+        android:spinnersShown="false"
+        android:layout_alignParentLeft="true"
+        android:scaleX="0.5"
+        android:scaleY="0.7"
+        android:layout_below="@+id/StartDateTextView"  />
+
+    <TimePicker
+        android:id="@+id/StartTimePicker"
+        android:layout_width="140dip"
+        android:layout_height="150dip"
+        android:scaleX="0.5"
+        android:scaleY="0.7"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/StartDateTextView"
+        android:layout_alignRight="@+id/StartDatePicker"  />
+
+    <TextView
+        android:id="@+id/EndDateTextView"
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30sp"
+        android:layout_below="@+id/StartDatePicker"
+        android:background="#FF0000"
+        android:gravity="center_horizontal"
+        android:text="@string/endDate"
+        android:textColor="#000000"
+        android:textStyle="bold"  />
+
+    <DatePicker
+        android:id="@+id/EndDatePicker"
+        android:layout_width="250dip"
+        android:layout_height="150dip"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentLeft="true"
+        android:scaleX="0.5"
+        android:scaleY="0.7"
+        android:layout_below="@+id/EndDateTextView"  />
+
+    <TimePicker
+        android:id="@+id/EndTimePicker"
+        android:layout_width="140dip"
+        android:layout_height="150dip"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentRight="true"
+        android:scaleX="0.5"
+        android:scaleY="0.7"
+        android:layout_below="@+id/EndDateTextView"
+        android:layout_alignRight="@+id/EndDateTextView"  />
+
+    <TextView
+        android:id="@+id/greenButtonForForwardTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15sp"
+        android:layout_above="@+id/redButtonForBackwardTextView"
+        android:textColor="#008000"
+        android:gravity="center_horizontal"
+        android:text="@string/PressGreenButtonForForward" />
+
+    <TextView
+        android:id="@+id/redButtonForBackwardTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15sp"
+        android:layout_alignParentBottom="true"
+        android:textColor="#FF0000"
+        android:gravity="center_horizontal"
+        android:text="@string/PressRedButtonForBackward" />
+</RelativeLayout>

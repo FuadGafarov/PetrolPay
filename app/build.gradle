@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 21
+    buildToolsVersion '26.0.2'
+
+    defaultConfig {
+        applicationId "com.paysys"
+        minSdkVersion 19
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        debug {
+            debuggable false
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/core-3.1.0.jar')
+    compile files('libs/SmartCardLib.jar')
+    compile files('libs/telpo_api.jar')
+    compile 'com.android.support.constraint:constraint-layout:1.0.1'
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
+}
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'

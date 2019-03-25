@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:contentDescription="@string/Pay"
+        android:src="@drawable/transpay_logo" />
+
+            <Button
+                android:id="@+id/balanceButton"
+                android:layout_width="match_parent"
+                android:layout_height="110dip"
+                android:background="@drawable/border_gray_bg"
+                android:textStyle="bold"
+                android:textColor="#38464E"
+                android:layout_below="@+id/imageView2"
+                android:textSize="40sp"
+                android:text="@string/Balance" />
+
+            <Button
+                android:id="@+id/payButton"
+                android:layout_width="match_parent"
+                android:layout_height="110dip"
+                android:textStyle="bold"
+                android:textColor="#38464E"
+                android:layout_below="@+id/balanceButton"
+                android:background="@drawable/border_two_bg"
+                android:text="@string/Pay"
+                android:textSize="40sp" />
+
+            <Button
+                android:id="@+id/reverseButton"
+                android:layout_width="match_parent"
+                android:layout_height="110dip"
+                android:background="@drawable/border_three_bg"
+                android:textColor="#38464E"
+                android:layout_below="@+id/payButton"
+                android:textStyle="bold"
+                android:textSize="40sp"
+                android:text="@string/reverse" />
+
+            <Button
+                android:id="@+id/reportButton"
+                android:layout_width="match_parent"
+                android:layout_height="110dip"
+                android:textStyle="bold"
+                android:layout_below="@+id/reverseButton"
+                android:background="@drawable/border_four_bg"
+                android:textColor="#38464E"
+                android:textSize="40sp"
+                android:text="@string/Report" />
+</RelativeLayout>

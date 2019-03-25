@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="cancel">"Cancel"</string>
+
+    <string name="appName">"Card Control Demo"</string>
+
+
+    <string name="PickCard">Pick Card</string>
+    <string name="Pay"><b>PAY</b></string>
+    <string name="inputAmount">ENTER AMOUNT</string>
+    <string name="azn">AZN</string>
+    <string name="makeOperation">Make Operation</string>
+    <string name="delete">Delete</string>
+    <string name="AddedAmount">"Added Amount: "</string>
+    <string name="pinCode">PIN</string>
+    <string name="next">Next</string>
+    <string name="transactionCompletedSuccessfully">Transaction Completed Successfully!</string>
+    <string name="amount">"Amount: "</string>
+    <string name="printingReceipt">Printing Receipt.</string>
+    <string name="addPinCode">ENTER PIN</string>
+    <string name="reverse">REVERSE</string>
+    <string name="manatCurrency">\u20BC</string>
+    <string name="EnterTRNumber">ENTER TR number</string>
+    <string name="pleaseEnterCorrectTrNumber">Please Enter Correct Transaction Number</string>
+    <string name="PleaseWait">Please Wait............</string>
+    <string name="PinCodeMustBeFourDigits">Pin Code must be 4 digits</string>
+    <string name="InvalidTransactionNumber">Invalid Transaction Number</string>
+    <string name="Balance">BALANCE</string>
+    <string name="Report">REPORT</string>
+    <string name="Balance2">Balance</string>
+    <string name="Back">Back</string>
+    <string name="Litre">Litre</string>
+    <string name="Petrol">Petrol</string>
+    <string name="Gas">Gas</string>
+    <string name="Disel">Diesel</string>
+    <string name="ErrorInConnection">Error In Connection. Contact with Administrator</string>
+    <string name="InsufficientFunds">Insufficient Funds</string>
+    <string name="TerminalID">Terminal ID</string>
+    <string name="TerminalIDMustBeFourDigits">Terminal ID must be 4 digits</string>
+    <string name="PleaseInsertCard">Please Insert Card</string>
+    <string name="EnterAmount">Enter Amount</string>
+    <string name="Error">Error</string>
+    <string name="Numbers">Numbers</string>
+    <string name="EnterLitre">Enter Litre</string>
+    <string name="PressGreenButtonForForward">Press Green Button For Forward</string>
+    <string name="PressRedButtonForBackward">Press Red Button For Backward</string>
+    <string name="terminalIDMustBeFourDigits">Terminal ID must be 4 digits</string>
+    <string name="incorrectTerminalID">Incorrect Terminal ID</string>
+    <string name="title_activity_report_input">ReportInputActivity</string>
+    <string name="startDate">Start Date</string>
+    <string name="endDate">End Date</string>
+    <string name="reportCreatedSuccessfully">Report Created Successfully</string>
+
+</resources>

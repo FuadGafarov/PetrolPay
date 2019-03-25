@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\Desktop\android-studio\gradle\m2repository\org\jetbrains\annotations\13.0\annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\d3ed906257b6e97769e01b07e7fdca14\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\2245768ab4a1ec06679e4f57f9c0ee9f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\libs\SmartCardLib.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f0fb1c81d6314aa498974dc06dfb4bebf13769fb">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\fae63093bfdc26be5b6a0802c6c64530\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\libs\core-3.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e4a736ea74e548f346870b58648a1b830ff3ac82">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.3-2\3fe54c7558c903868351ac79b792d152bca958f2\kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\libs\telpo_api.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ad817224a525b2450a6a517f28486a2e4c456991">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\7661fc3e714758c99909a446834a4d15\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\7661fc3e714758c99909a446834a4d15\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\fae63093bfdc26be5b6a0802c6c64530\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\24c3fbd6eb69b343202fabb7bf32e3a4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\1ad3c093b841245b439d8721ef44f7c4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\Desktop\android-studio\gradle\m2repository\org\jetbrains\kotlin\kotlin-stdlib\1.1.3-2\kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fuad\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\21.0.3\4b74cefe1f0c1b819e7260c8627a14674e37fd35\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Paysys\CardControlDemo 4.0.1_HdxUtil.GetPrinterPort\app\build\intermediates\transforms\preDex\debug\12.jar" />
+    </item>
+
+</items>

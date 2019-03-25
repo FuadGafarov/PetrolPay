@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+        android:contentDescription="@string/Pay"
+        android:src="@drawable/transpay_logo" />
+
+    <TextView
+        android:id="@+id/pinTextView"
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30sp"
+        android:layout_below="@+id/logoImage"
+        android:background="#555252"
+        android:gravity="center_horizontal"
+        android:text="@string/pinCode"
+        android:textStyle="bold"
+        android:textColor="#EFF62A" />
+
+    <EditText
+        android:id="@+id/pinEditText"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:ems="10"
+        android:labelFor="@id/pinEditText"
+        android:layout_below="@+id/pinTextView"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:background="@android:color/transparent"
+        android:text=""
+        android:inputType="numberPassword"
+        android:maxLength="4"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/greenButtonForForwardTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
+        android:layout_above="@+id/redButtonForBackwardTextView"
+        android:textColor="#008000"
+        android:gravity="center_horizontal"
+        android:text="@string/PressGreenButtonForForward" />
+
+    <TextView
+        android:id="@+id/redButtonForBackwardTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
+        android:layout_alignParentBottom="true"
+        android:textColor="#FF0000"
+        android:gravity="center_horizontal"
+        android:text="@string/PressRedButtonForBackward" />
+</RelativeLayout>
